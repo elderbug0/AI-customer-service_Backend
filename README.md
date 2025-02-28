@@ -1,6 +1,7 @@
 # Twilio Media Stream Server with OpenAI Integration
 
 ## Overview
+Check frontend on: https://github.com/elderbug0/AI-customer-service_Frontend
 This project is a FastAPI-based server that integrates Twilio Media Streams with OpenAI's Realtime API. The application enables:
 - Managing and assigning Twilio phone numbers to users.
 - Handling incoming calls via Twilio.
